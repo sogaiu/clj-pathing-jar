@@ -8,7 +8,7 @@
     [java.util.jar Attributes$Name JarOutputStream Manifest]))
 
 ;; TODO: figure out a way to resolve relative paths based on something
-;;       other than user.dir
+;;       other than user.dir?
 
 ;; basically an adaptation of tim gilbert's lein-classpath-jar:
 ;;   https://github.com/timgilbert/lein-classpath-jar
